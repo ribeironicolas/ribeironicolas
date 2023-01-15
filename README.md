@@ -1,6 +1,6 @@
 ## Olá, sou Nicolas Ribeiro! Bem-Vindo ao meu perfil 😁
 
-- 🌱 Cursando 3º Semestre de Analise e Desenvolvimento de Sistemas.
+- 🌱 Cursando 4º Semestre de Analise e Desenvolvimento de Sistemas.
 - ⚡ Buscando sempre evoluir.
 - ⚙  Linguagens e Tecnologias que já estudei ou estou estudando.
 
