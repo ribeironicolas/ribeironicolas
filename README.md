@@ -1,8 +1,8 @@
-## Olá, sou Nicolas Ribeiro! Bem-Vindo ao meu perfil 😁
+## Hello, I'm Nicolas Ribeiro! Welcome to my profile. 😁
 
-- 🌱 Cursando 4º Semestre de Analise e Desenvolvimento de Sistemas.
-- ⚡ Buscando sempre evoluir.
-- ⚙  Linguagens e Tecnologias que já estudei ou estou estudando.
+- 🌱 Graduated in Analysis and Systems Development.
+- ⚡ Always seeking to evolve.
+- ⚙ My skills
 
  <div style="display: inline_block">
   <img align="center" alt="Nicolas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
